@@ -1,6 +1,6 @@
 import { ... } from 🦄
 
-const TestFunction = () => {
+const Unicorn = () => {
   const { userInfo } = useContext(AuthContext) // getting user object from auth context
     const wrapperRef = useRef(null) // init ref
     
